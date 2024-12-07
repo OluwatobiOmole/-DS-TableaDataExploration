@@ -41,7 +41,7 @@ The visualizations target **movie production studios**, aiming to provide insigh
 
 1. **Interactive Summary Table**  
    Displays average statistics (e.g., budget, duration) with filters for directors, actors, and genres.
-   ![image](https://github.com/user-attachments/assets/fb8f6bf2-88f0-4c55-98be-fe1851a865a9)](https://github.com/user-attachments/assets/a5b5071c-9932-4499-b77b-4035f7cf90d8)
+   ![image](https://github.com/user-attachments/assets/fb8f6bf2-88f0-4c55-98be-fe1851a865a9)]
 
 3. **Tree Map (Genres and Gross Revenue)**  
    - Color-coded by average gross (red = high, blue = low).  
