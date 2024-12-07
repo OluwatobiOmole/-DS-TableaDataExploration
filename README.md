@@ -1,6 +1,5 @@
-# Data Visualization Assignment 1
+# Data Visualization Tableau
 
-**Author:** Oluwatobi Omole (D22125039)  
 **Topic:** Understanding Movie Trends through Data  
 
 ---
