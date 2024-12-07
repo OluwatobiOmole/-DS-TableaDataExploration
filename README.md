@@ -1,3 +1,6 @@
+![Picture 5](https://github.com/user-attachments/assets/b474e9cd-104e-41af-bd97-887a4a3a522f)
+Dashboard 1 (Exploratory Analysis no filter applied)
+
 # Data Visualization Tableau
 
 **Topic:** Understanding Movie Trends through Data  
@@ -85,9 +88,6 @@ Sheet 4 (Explanatory Analysis)
 
 **Dashboard 1**  
 The dashboard was created with filters including the director's name and genre to see how these factors affect each of the created individual visualizations. By selecting a specific director, it is easy to see how many films they directed, the actors they work best with and how much these actors made in movies directed by the director, how much the director's films have made, the average ratings of their movies concerning how much they made and the types of movies they typically make. Filtering with genre also helps find which actors grossed the highest for that genre, the average ratings of the genre movies, how many films are in that genre, etc. The image below shows the dashboard without any filter applied yet.
-
-![Picture 5](https://github.com/user-attachments/assets/b474e9cd-104e-41af-bd97-887a4a3a522f)
-Dashboard 1 (Exploratory Analysis no filter applied)
 
 Now I will apply a filter by looking at the Visualisation focusing on a director from the list of directors. I will select Steven Spielberg and see how it changes the Visualisation in the image below. He directed 33 films, and his films have grossed over 6 billion dollars. He also seems to work very well with Harrison Ford as the films they've worked together on have made almost 1 billion dollars. Also, his Biography movies are more highly rated than his other kinds of movies, but his family movies make the most money on average. These are just some of the insights that can be obtained with this Visualisation; more can be seen. 
 
